@@ -1,0 +1,21 @@
+{
+  "gui.livingmarket.pin": "Закрепить (%s/%s)",
+  "gui.livingmarket.unpin": "Открепить (%s/%s)",
+  "gui.livingmarket.pin.special": "Спецторг (1 день)",
+  "gui.livingmarket.pin.tooltip": "Закрепить выбранный торг (золотая рамка), чтобы он не менялся утром и при обновлении.",
+  "gui.livingmarket.pin.tooltip.limit": "Достигнут лимит закреплённых торгов (%s/%s). Сначала открепите другой торг.",
+  "gui.livingmarket.pin.tooltip.special": "Предложение дня (оранжевая рамка) и Редкий бартер (фиолетовая рамка) действуют только 1 день и не закрепляются.",
+  "gui.livingmarket.unpin.tooltip": "Снять закрепление с выбранного торга.",
+  "gui.livingmarket.reroll": "Обновить (%s изумр.)",
+  "gui.livingmarket.reroll.free": "Обновить (бесплатно)",
+  "gui.livingmarket.reroll.tooltip": "Сменить все обычные незакреплённые торги.\nСтоимость растёт за день и сбрасывается утром.\n\nРынок: %s\nПрофессий в деревне: %s (редкий бартер: %s%%)",
+  "gui.livingmarket.reroll.tooltip.no_emeralds": "Недостаточно изумрудов (нужно: %s).\n\nРынок: %s\nПрофессий в деревне: %s (редкий бартер: %s%%)",
+  "gui.livingmarket.reroll.tooltip.all_pinned": "Нет обычных незакреплённых торгов для обновления.\n\nРынок: %s\nПрофессий в деревне: %s (редкий бартер: %s%%)",
+  "biome_region.livingmarket.plains_forest": "Равнины и Леса",
+  "biome_region.livingmarket.desert": "Пустыня и Пустоши",
+  "biome_region.livingmarket.savanna": "Саванна",
+  "biome_region.livingmarket.taiga_mountains": "Тайга и Горы",
+  "biome_region.livingmarket.snowy": "Снежные земли",
+  "biome_region.livingmarket.jungle_lush": "Джунгли и Пещеры",
+  "biome_region.livingmarket.swamp": "Болото и Мангры"
+}
